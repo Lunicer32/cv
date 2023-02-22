@@ -1,0 +1,13 @@
+{
+    "name": "cv",
+    "version": "1.0.0",
+    "source": "src/index.html",
+    "license": "MIT",
+    "devDependencies": {
+        "parcel": "^2.8.3"
+    },
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"
+    }
+}
